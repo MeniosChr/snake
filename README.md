@@ -17,8 +17,7 @@ Lossing third life means game over.
 
 -You can type X to exit the game.
 
--If you type p will appear on the map a special symbol. If you step on this symbol three things may happen
-
-1)Get some points
+-If you type p will appear on the map a special symbol. If you step on this symbol one of the following things will happen
+1)Get some points  
 2)Two walls will disappear from the map  
 3)Snake will become smaller
